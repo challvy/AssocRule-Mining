@@ -1,0 +1,4 @@
+#!D:\Documents\PycharmProjects\Apriori\venv\Scripts\python.exe
+# EASY-INSTALL-SCRIPT: 'memory-profiler==0.52.0','mprof'
+__requires__ = 'memory-profiler==0.52.0'
+__import__('pkg_resources').run_script('memory-profiler==0.52.0', 'mprof')
